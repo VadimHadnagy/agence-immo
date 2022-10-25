@@ -1,0 +1,55 @@
+.container-card {
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-items: center;
+    width: 80vw;
+    height: 90vh;
+}
+
+.card {
+    border: solid 1px #AEB1B3;
+    height: 38vh;
+    width: 25%;
+}
+
+.card img {
+    height: 20vh;
+    width: 100%;
+}
+
+.card h3 {
+    font-family: 'Raleway';
+}
+
+#deshouse {
+    color: #AEB1B3;
+    margin: 0;
+}
+
+#price {
+    color: #DC635A;
+}
+
+.separate1 {
+    border-top: solid 1px #AEB1B3;
+    width: 100%;
+}
+
+.card ul {
+    display: flex;
+    padding: 0;
+    gap: 25px;
+}
+
+.card ul li {
+    color: #AEB1B3;
+    font-size: 15px;
+}
+
+#deletepoint {
+    list-style-type: none;
+}
+
+
+
